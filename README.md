@@ -8,8 +8,11 @@ A beginner-friendly Flutter app illustrating state management using `StatefulWid
 
 ## 📱 Screen
 
-![Image](https://github.com/user-attachments/assets/58fa2c50-c754-43c3-9180-56b3edb7b806)
+<img src="https://github.com/user-attachments/assets/58fa2c50-c754-43c3-9180-56b3edb7b806" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/49527ce0-0467-4fc0-bedc-bd210fce9447)
+<img src="https://github.com/user-attachments/assets/49527ce0-0467-4fc0-bedc-bd210fce9447" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/8531aa22-9673-463f-881f-4f7add0b0c4f)
+<img src="https://github.com/user-attachments/assets/8531aa22-9673-463f-881f-4f7add0b0c4f" width="300" height="700" />
+<br>
